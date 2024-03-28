@@ -1,0 +1,23 @@
+body
+{
+    color: seagreen;
+}
+
+p
+{
+    font-size: 20px;
+}
+
+a
+{
+    font-size: 26px;
+    color: inherit;
+    margin: 20px;
+}
+
+button
+{
+    margin-top: 20px;
+    margin-left: 20px;
+    padding: 10px;
+}

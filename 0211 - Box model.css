@@ -1,0 +1,30 @@
+div 
+{
+    background-color: #aaa;
+    width: 200px;
+    height: 100px;
+    padding: 30px;
+    border: 10px solid #111;
+    margin: 30px;
+}
+
+h1
+{
+    background-color: #84e;
+    padding: 20px;
+    width: 100px;
+    border: 8px #111 solid;
+    margin: 30px;
+}
+
+body
+{
+    margin: 0px;
+}
+
+/* .div 
+{
+    background-color: red;
+    width: 200px;
+    height: 100px;
+} */
